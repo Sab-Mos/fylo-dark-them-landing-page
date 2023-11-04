@@ -1,6 +1,11 @@
+![fylo-1](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/aa307f1b-0e4b-4a5e-ba83-eefdc0ca77ca)
+
 # Frontend Mentor - Fylo dark theme landing page solution
 
 This is a solution that I have created for the challenge provided by Frontend Mentor - [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
+
+### Demo
+[Live Demo](https://chipper-torrone-74554c.netlify.app/)
 
 ## Table of contents
 
@@ -20,6 +25,14 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for the interactive elements on the page
+
+ ### Screenshots
+
+Below you can see the design for different devices.
+
+![fylo-2](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/c7f8ee3b-b6a3-4bdd-ae8c-b1a1f7b36c93)
+
+![fylo-3](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/87bcfe04-8307-4751-b727-02a4d2301d3e)
 
 ### Built with
 
