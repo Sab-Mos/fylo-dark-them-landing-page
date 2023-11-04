@@ -36,6 +36,8 @@ Below you can see the design for different devices.
 
 ![fylo tablet](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/29acfed3-27db-47de-902a-e95d29becef7)
 
+![fylo mobile](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/a2943e65-ad07-4b06-a38e-8aa486610430)
+
 ### Built with
 
 - Semantic HTML5 markup
