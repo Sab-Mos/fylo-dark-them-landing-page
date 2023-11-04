@@ -1,4 +1,4 @@
-![fylo-1](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/aa307f1b-0e4b-4a5e-ba83-eefdc0ca77ca)
+![fylo-1](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/29fefd59-0de5-4061-b867-cbb1a062995d)
 
 # Frontend Mentor - Fylo dark theme landing page solution
 
