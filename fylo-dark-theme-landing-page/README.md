@@ -5,7 +5,7 @@
 This is a solution that I have created for the challenge provided by Frontend Mentor - [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
 
 ### Demo
-[Live Demo](https://chipper-torrone-74554c.netlify.app/)
+[Live Demo](https://65469fedbf24fd4520595135--friendly-haupia-35c0c9.netlify.app/)
 
 ## Table of contents
 
